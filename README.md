@@ -4,10 +4,10 @@
  Se subirán códigos y presentaciones que se hagan.
  
  ## Nuestras redes 
- [![][badge-meetup]][url-meetup] [![][badge-linkedin]][url-linkedin] [![][badge-youtube]][url-youtube] [![][badge-twitter]][url-twitter] [![][badge-telegram]][url-telegram] [![][badge-slack]][url-slack] [![][badge-discord]][url-discord]
+ [![][badge-meetup]][url-meetup] [![][badge-linkedin]][url-linkedin] [![][badge-youtube]][url-youtube] [![][badge-twitter]][url-twitter] [![][badge-slack]][url-slack] [![][badge-discord]][url-discord] [![][badge-telegram]][url-telegram]
  
  ## Nuestras redes 
- [![][badge-meetup-full]][url-meetup] [![][badge-linkedin-full]][url-linkedin] [![][badge-youtube-full]][url-youtube] [![][badge-twitter-full]][url-twitter] [![][badge-telegram-full]][url-telegram] [![][badge-slack]][url-slack] [![][badge-discord-full]][url-discord]
+ [![][badge-meetup-full]][url-meetup] [![][badge-linkedin-full]][url-linkedin] [![][badge-youtube-full]][url-youtube] [![][badge-twitter-full]][url-twitter] [![][badge-slack]][url-slack] [![][badge-discord-full]][url-discord] [![][badge-telegram-full]][url-telegram]
 
 ## Nuestras últimas charlas 
 <!-- YOUTUBE:START -->
