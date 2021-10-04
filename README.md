@@ -4,7 +4,10 @@
  Se subirán códigos y presentaciones que se hagan.
  
  ## Nuestras redes 
- [![][badge-linkedin]][url-linkedin] [![][badge-twitter]][url-twitter] [![][badge-meetup]][url-meetup] [![][badge-youtube]][url-youtube] [![][badge-telegram]][url-telegram] [![][badge-slack]][url-slack] [![][badge-discord]][url-discord]
+ [![][badge-meetup]][url-meetup] [![][badge-linkedin]][url-linkedin] [![][badge-youtube]][url-youtube] [![][badge-twitter]][url-twitter] [![][badge-telegram]][url-telegram] [![][badge-slack]][url-slack] [![][badge-discord]][url-discord]
+ 
+ ## Nuestras redes 
+ [![][badge-meetup-full]][url-meetup] [![][badge-linkedin-full]][url-linkedin] [![][badge-youtube-full]][url-youtube] [![][badge-twitter-full]][url-twitter] [![][badge-telegram-full]][url-telegram] [![][badge-slack]][url-slack] [![][badge-discord-full]][url-discord]
 
 ## Nuestras últimas charlas 
 <!-- YOUTUBE:START -->
@@ -15,23 +18,29 @@
  - [30 Days of ML](https://github.com/danpereda/TFUG_Santiago/tree/main/30%20Days%20of%20ML): Notebooks sobre técnicas y temas importantes para sacar la máxima performance de un modelo.
 
 <!-- Badges and links -->
-[badge-linkedin]: https://img.shields.io/static/v1?label=TensorFlow%20and%20ML%20User%20Group%20Santiago&message=LinkedIn&style=for-the-badge&logo=linkedin&color=0A66C2 
+[badge-linkedin-full]: https://img.shields.io/static/v1?label=TensorFlow%20and%20ML%20User%20Group%20Santiago&message=LinkedIn&style=for-the-badge&logo=linkedin&color=0A66C2 
+[badge-linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&style=for-the-badge&logo=linkedin&color=0A66C2
 [url-linkedin]: https://www.linkedin.com/company/tensorflow-user-group-santiago
 
 [badge-slack]: https://img.shields.io/static/v1?label=%20&message=Slack&style=for-the-badge&logo=slack&color=4A154B 
 [url-slack]: https://join.slack.com/t/tensorflow-chile/shared_invite/zt-wphk5zhv-A5YRRu3esCUHKRKC4rtTJg 
 
-[badge-twitter]: https://img.shields.io/static/v1?label=@UserSantiago&message=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2
+[badge-twitter-full]: https://img.shields.io/static/v1?label=@UserSantiago&message=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2
+[badge-twitter]: https://img.shields.io/static/v1?label&message=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2&logoColor=white
 [url-twitter]: https://twitter.com/UserSantiago 
 
-[badge-telegram]: https://img.shields.io/static/v1?label=TensorFlow-Chile&message=Telegram&style=for-the-badge&logo=telegram&color=26A5E4 
+[badge-telegram-full]: https://img.shields.io/static/v1?label=TensorFlow-Chile&message=Telegram&style=for-the-badge&logo=telegram&color=26A5E4 
+[badge-telegram]: https://img.shields.io/static/v1?label=&message=Telegram&style=for-the-badge&logo=telegram&color=26A5E4
 [url-telegram]: https://t.me/joinchat/3XBhc9ORx_4xYjc5
 
-[badge-meetup]: https://img.shields.io/static/v1?label=TensorFlow%20Santiago&message=MeetUp&style=for-the-badge&logo=meetup&color=ED1C40 
+[badge-meetup-full]: https://img.shields.io/static/v1?label=TensorFlow%20Santiago&message=MeetUp&style=for-the-badge&logo=meetup&color=ED1C40 
+[badge-meetup]: https://img.shields.io/static/v1?label=&message=MeetUp&style=for-the-badge&logo=meetup&color=ED1C40
 [url-meetup]: https://www.meetup.com/TensorFlow-Santiago/
 
-[badge-youtube]: https://img.shields.io/static/v1?label=TFUG%20Santiago%20Chile&message=YouTube&style=for-the-badge&logo=youtube&color=FF0000
+[badge-youtube-full]: https://img.shields.io/static/v1?label=TFUG%20Santiago%20Chile&message=YouTube&style=for-the-badge&logo=youtube&color=FF0000
+[badge-youtube]: https://img.shields.io/static/v1?label=&message=YouTube&style=for-the-badge&logo=youtube&color=FF0000
 [url-youtube]: https://www.youtube.com/channel/UC_O43Juzt06b9kgP0d-QgSQ 
 
-[badge-discord]: https://img.shields.io/static/v1?label=TFUG%20Chile&message=Discord&style=for-the-badge&logo=discord&color=5865F2
+[badge-discord-full]: https://img.shields.io/static/v1?label=TFUG%20Chile&message=Discord&style=for-the-badge&logo=discord&color=5865F2
+[badge-discord]: https://img.shields.io/static/v1?label=&message=Discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white
 [url-discord]: https://discord.gg/dcVsdjPT
