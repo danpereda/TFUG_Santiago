@@ -8,11 +8,11 @@
  
 ## Nuestras últimas charlas 
 <!-- YOUTUBE:START -->
+- [Aplicaciones de la programación diferenciable - Gonzalo Mena](https://www.youtube.com/watch?v=pRGkMZRr5Hk)
 - [Machine Learning Competitivo: top 1% en Kaggle - Daniel Pereda](https://www.youtube.com/watch?v=0o72ndnTnCQ)
 - [Consejos prácticos para proyectos de Machine Learning - Matías Sanchez Cabrera](https://www.youtube.com/watch?v=JLG1qxV5cfk)
 - [Ética, algoritmos y biometría - Vera Sativa](https://www.youtube.com/watch?v=eFYlR8y-Xcg)
 - [Bayesian Machine Learning Applied to Marketing  The NoiseGrasp Way - Gonzalo Ríos.](https://www.youtube.com/watch?v=swmbQ3HZEHM)
-- [Machine Learning para la logística de la última milla - Rodrigo Assar, SimpliRoute](https://www.youtube.com/watch?v=Em401LPWZqs)
 <!-- YOUTUBE:END -->
  
  # Tabla de contenidos:
