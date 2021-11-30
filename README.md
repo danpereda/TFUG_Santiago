@@ -8,11 +8,11 @@
  
 ## Nuestras últimas charlas 
 <!-- YOUTUBE:START -->
+- [Jesús Ramos - Algorithmic Transparency](https://www.youtube.com/watch?v=Yr2U8l_ofCs)
 - [Aplicaciones de la programación diferenciable - Gonzalo Mena](https://www.youtube.com/watch?v=pRGkMZRr5Hk)
 - [Machine Learning Competitivo: top 1% en Kaggle - Daniel Pereda](https://www.youtube.com/watch?v=0o72ndnTnCQ)
 - [Consejos prácticos para proyectos de Machine Learning - Matías Sanchez Cabrera](https://www.youtube.com/watch?v=JLG1qxV5cfk)
 - [Ética, algoritmos y biometría - Vera Sativa](https://www.youtube.com/watch?v=eFYlR8y-Xcg)
-- [Bayesian Machine Learning Applied to Marketing  The NoiseGrasp Way - Gonzalo Ríos.](https://www.youtube.com/watch?v=swmbQ3HZEHM)
 <!-- YOUTUBE:END -->
  
  # Tabla de contenidos:
