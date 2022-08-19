@@ -1,12 +1,23 @@
+![](Banner2048xmenos.png)
 # TFUG Santiago 
  Repositorio oficial del grupo [TFUG Santiago](https://www.meetup.com/es/TensorFlow-Santiago/), el cual es parte de los grupos oficiales de [Google](https://www.tensorflow.org/community/groups?authuser=1).
  
  Se subirán códigos y presentaciones que se hagan.
  
- ## Nuestras redes 
+## 🌐 Nuestras redes 
  [![][badge-meetup]][url-meetup] [![][badge-linkedin]][url-linkedin] [![][badge-youtube]][url-youtube] [![][badge-twitter]][url-twitter] [![][badge-slack]][url-slack] [![][badge-discord]][url-discord] [![][badge-telegram]][url-telegram]
+
+
+# 📌 Recursos 
  
-## Nuestras últimas charlas 
+ - [30 Days of ML](https://github.com/danpereda/TFUG_Santiago/tree/main/30%20Days%20of%20ML): Notebooks sobre técnicas y temas importantes para sacar la máxima performance de un modelo.
+
+# 📅 Eventos 
+
+## 📢 Próximos eventos 
+- **31 de agosto:** Tutorial de Autoencoders con Adrián Soto Suárez
+
+## 👨🏽‍💻 Nuestras últimas charlas 
 <!-- YOUTUBE:START -->
 - [Jesús Ramos - Algorithmic Transparency](https://www.youtube.com/watch?v=Yr2U8l_ofCs)
 - [Aplicaciones de la programación diferenciable - Gonzalo Mena](https://www.youtube.com/watch?v=pRGkMZRr5Hk)
@@ -15,9 +26,7 @@
 - [Ética, algoritmos y biometría - Vera Sativa](https://www.youtube.com/watch?v=eFYlR8y-Xcg)
 <!-- YOUTUBE:END -->
  
- # Tabla de contenidos:
- 
- - [30 Days of ML](https://github.com/danpereda/TFUG_Santiago/tree/main/30%20Days%20of%20ML): Notebooks sobre técnicas y temas importantes para sacar la máxima performance de un modelo.
+
 
 <!-- Badges and links -->
 [badge-linkedin-full]: https://img.shields.io/static/v1?label=TensorFlow%20and%20ML%20User%20Group%20Santiago&message=LinkedIn&style=for-the-badge&logo=linkedin&color=0A66C2 
