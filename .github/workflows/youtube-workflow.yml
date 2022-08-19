@@ -1,7 +1,8 @@
+
 name: Latest youtube videos workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: '0 3 * * 6' # Corre a las 3:00 UTC los sabados (0:00 en nuestra hora)
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 
 jobs:
@@ -16,3 +17,6 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC_O43Juzt06b9kgP0d-QgSQ"
+#           readme_path: "./profile/README.md"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          template: '$newline### [$title]($url)$newline$newline<p align="center"><a href="$url"><img src="https://img.youtube.com/vi/$videoId/0.jpg"></a></p>$newline'
