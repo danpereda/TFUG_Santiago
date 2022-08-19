@@ -7,7 +7,14 @@
 ## 🌐 Nuestras redes 
  [![][badge-meetup]][url-meetup] [![][badge-linkedin]][url-linkedin] [![][badge-youtube]][url-youtube] [![][badge-twitter]][url-twitter] [![][badge-slack]][url-slack] [![][badge-discord]][url-discord] [![][badge-telegram]][url-telegram]
 
-## 📅 Próximos eventos 
+
+# 📌 Recursos 
+ 
+ - [30 Days of ML](https://github.com/danpereda/TFUG_Santiago/tree/main/30%20Days%20of%20ML): Notebooks sobre técnicas y temas importantes para sacar la máxima performance de un modelo.
+
+# 📅 Eventos 
+
+## 📢 Próximos eventos 
 - **31 de agosto:** Tutorial de Autoencoders con Adrián Soto Suárez
 
 ## 👨🏽‍💻 Nuestras últimas charlas 
@@ -19,9 +26,7 @@
 - [Ética, algoritmos y biometría - Vera Sativa](https://www.youtube.com/watch?v=eFYlR8y-Xcg)
 <!-- YOUTUBE:END -->
  
- # 📌 Tabla de contenidos:
- 
- - [30 Days of ML](https://github.com/danpereda/TFUG_Santiago/tree/main/30%20Days%20of%20ML): Notebooks sobre técnicas y temas importantes para sacar la máxima performance de un modelo.
+
 
 <!-- Badges and links -->
 [badge-linkedin-full]: https://img.shields.io/static/v1?label=TensorFlow%20and%20ML%20User%20Group%20Santiago&message=LinkedIn&style=for-the-badge&logo=linkedin&color=0A66C2 
