@@ -1,3 +1,4 @@
+![](Banner2048xmenos.png)
 # TFUG Santiago 
  Repositorio oficial del grupo [TFUG Santiago](https://www.meetup.com/es/TensorFlow-Santiago/), el cual es parte de los grupos oficiales de [Google](https://www.tensorflow.org/community/groups?authuser=1).
  
