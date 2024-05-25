@@ -19,6 +19,10 @@
 
 ## 👨🏽‍💻 Nuestras últimas charlas 
 <!-- YOUTUBE:START -->
+### [Fairness en modelos de lenguaje: un vistazo a los sesgos de género - Camila Henríquez](https://www.youtube.com/watch?v=Oo2d7iqdv1U)
+
+<p align="center"><a href="https://www.youtube.com/watch?v=Oo2d7iqdv1U"><img src="https://img.youtube.com/vi/Oo2d7iqdv1U/0.jpg"></a></p>
+
 ### [Técnicas de dividir texto y aplicaciones a LLMs - Oziel Aguilera, Replai](https://www.youtube.com/watch?v=1GJdOqRy5y8)
 
 <p align="center"><a href="https://www.youtube.com/watch?v=1GJdOqRy5y8"><img src="https://img.youtube.com/vi/1GJdOqRy5y8/0.jpg"></a></p>
@@ -34,10 +38,6 @@
 ### [¿Cómo procesar cientos de miles de datos astronómicos? - Esteban Reyes, ALerce, Fintual](https://www.youtube.com/watch?v=JESe93_tvdc)
 
 <p align="center"><a href="https://www.youtube.com/watch?v=JESe93_tvdc"><img src="https://img.youtube.com/vi/JESe93_tvdc/0.jpg"></a></p>
-
-### [Workshop: Natural Language Processing with TensorFlow with Merve Noyan](https://www.youtube.com/watch?v=nqgjcVitshw)
-
-<p align="center"><a href="https://www.youtube.com/watch?v=nqgjcVitshw"><img src="https://img.youtube.com/vi/nqgjcVitshw/0.jpg"></a></p>
 <!-- YOUTUBE:END -->
  
 
